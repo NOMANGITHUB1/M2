@@ -10,4 +10,7 @@ The seat heating system is capable of maintaining of the temperature of seat in 
 |5_Report|Documentation of whole projec|
 |6_Imanges and Videos|Code Execution Images and Videos|
 
+# Code quality
+
+
 
