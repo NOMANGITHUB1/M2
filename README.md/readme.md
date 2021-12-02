@@ -11,6 +11,16 @@ The seat heating system is capable of maintaining of the temperature of seat in 
 |5_Report|Documentation of whole projec|
 |6_Imanges and Videos|Code Execution Images and Videos|
 
+## Bill.
+
+S.NO.                |  Components Description  | Quantity
+-------------------------| -----------------------------------------|-------------------------
+`1.`         | Diode | 1
+`2.`         | Atmega328p | 1
+`3.`     | Probe | 2
+`4.`       | 5v battery | 1
+`5.`               | Switches | 2
+
 # Code quality
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0bdfc8c0e03c423e803549a36690144f)]
 [![CI](https://github.com/NOMANGITHUB1/M2_Embeded_stepin_SeatHeating/actions/workflows/main.yml/badge.svg)](https://github.com/NOMANGITHUB1/M2_Embeded_stepin_SeatHeating/actions/workflows/main.yml)
