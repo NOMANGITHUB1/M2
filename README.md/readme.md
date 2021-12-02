@@ -13,6 +13,7 @@ The seat heating system is capable of maintaining of the temperature of seat in 
 
 # Code quality
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0bdfc8c0e03c423e803549a36690144f)]
+[![CI](https://github.com/NOMANGITHUB1/M2_Embeded_stepin_SeatHeating/actions/workflows/main.yml/badge.svg)](https://github.com/NOMANGITHUB1/M2_Embeded_stepin_SeatHeating/actions/workflows/main.yml)
 
 
 
